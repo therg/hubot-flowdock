@@ -36,7 +36,7 @@
     "email": "team@flowdock.com"
   },
   "dependencies": {
-    "flowdock": "0.4.x"
+    "flowdock": "git://github.com/therg/node-flowdock.git"
   },
   "devDependencies": {
     "coffee-script": ">=1.2.0"
